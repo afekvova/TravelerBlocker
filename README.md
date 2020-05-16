@@ -2,4 +2,4 @@
 Плагин который помешает путешественникам по крышке ада
 
 Команды:
-  /travelerblocker reload - перезагрузка плагина.
+  /travelerblocker reload - перезагрузка плагина. Права: travelerblocker.reload
