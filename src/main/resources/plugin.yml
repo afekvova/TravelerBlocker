@@ -1,0 +1,8 @@
+name: TravelerBlocker
+main: ru.afek.tb.TBMain
+author: Afek
+website: https://t.me/afekvova
+version: 1.0
+
+commands:
+  travelerblocker:
