@@ -3,3 +3,6 @@ version: '${project.version}'
 main: ru.afek.travelerblock.TravelerBlockMain
 api-version: 1.17
 authors: [ Afek ]
+
+commands:
+  travelerblocker:
