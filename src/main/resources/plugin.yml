@@ -1,8 +1,5 @@
-name: TravelerBlocker
-main: ru.afek.tb.TBMain
-author: Afek
-website: https://t.me/afekvova
-version: 1.0
-
-commands:
-  travelerblocker:
+name: TravelerBlock
+version: '${project.version}'
+main: ru.afek.travelerblock.TravelerBlockMain
+api-version: 1.17
+authors: [ Afek ]
