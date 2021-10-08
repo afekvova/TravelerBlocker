@@ -47,6 +47,7 @@ public class TravelerBlockMain extends JavaPlugin implements Listener {
             this.task.setWorlds(this.getConfig().getStringList("worlds"));
             this.task.setDamage(this.getConfig().getDouble("damage"));
             sender.sendMessage("§6[§fTravelerBlock§6] §aReloaded");
+            return true;
         }
 
         sender.sendMessage("§6[§fTravelerBlock§6] §f/travelerblocker reload");
